@@ -2,13 +2,31 @@
 
 # PHOC YE TEMPORARY APP KA NAME HAI ISKA MATLAB YE TEMPORARY APP NAME HAI KUCH BHI
 
-Last updated: 02 January 2026
+Last updated: 15 January 2026
 
 
-# Introduction
-PHOC is an advanced color transfer application designed to apply cinematic color styles across images and videos using powerful server-side processing.
+Phocyyyyy:  AI Color & Style Transfer
 
-The app is built for users who want professional-looking color grading results without complex tools or technical knowledge.
+# Short Description :
+Professional AI-powered color transfer in one click. Apply color styles across images and videos instantly using advanced server-side AI processing.
+
+# Introduction :
+
+Phocyyyyy is a professional AI-powered application designed to simplify and enhance color styling in your images and videos. Apply color styles instantly using AI-powered server-side processing., Phocyyyyy allows you to apply the color style of any source media to your target media with just a single tap.
+
+What makes Phocyyyyy unique is its ability to work across different media formats, not just within the same type:
+
+Image to Image: Apply the color style of one photo to another.
+
+Video to Video: Transfer the color style from one video to another.
+
+Image to Video: Give your videos the visual tone of your favorite image.
+
+Video to Image: Apply the color style of a video frame to your photos.
+
+With one-click AI color style transfer and professional color enhancement tools, Phocyyyyy is built for creators who want fast, simple, and high-quality color transformation without complex editing workflows.
+
+// introduction tak ho gaya hai niche ka abhi bahi hai 
 
 # What PHOC Does
 
