@@ -28,6 +28,8 @@ With one-click AI color style transfer and professional color enhancement tools,
 
 // introduction tak ho gaya hai niche ka abhi bahi hai 
 
+// iske niche ke sab baki hai bhala hi chatgpt se dhyan dena tuze ad d nah9 rahata is liye bol diya 
+
 # What PHOC Does
 
 PHOC allows users to transfer color characteristics between different types of media. The app supports multiple workflows, enabling consistent and cinematic color output.
