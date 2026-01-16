@@ -32,13 +32,34 @@ With one-click AI color style transfer and professional color enhancement tools,
 
 # What PHOC Does
 
-PHOC allows users to transfer color characteristics between different types of media. The app supports multiple workflows, enabling consistent and cinematic color output.
+Phocyyyyy is an AI-powered color transfer application that allows users to apply color styles between different types of media with just a single click. Using AI-powered server-side processing, the app performs color transfer and color style transformation while preserving the original structure and visual integrity of your images and videos.
 
-PHOC supports:
-• Image to Image color transfer
-• Video to Video color transfer
-• Image to Video color transfer
-• Video to Image color transfer
+Phocyyyyy focuses on three core capabilities:
+
+Color Transfer
+
+Color Style Transformation
+
+Color Enhancement
+
+The application supports the following workflows:
+
+Image to Image:
+Apply the color style of one image to another for a consistent and balanced look.
+
+Video to Video:
+Transfer the color style from one video to another to maintain visual consistency.
+
+Image to Video:
+Use a reference image to define the color style and visual tone of your video.
+
+Video to Image:
+Apply the color style of a video frame to your images for a professional and polished appearance.
+
+Along with one-click AI color style transfer, Phocyyyyy also provides manual color enhancement controls such as Brightness, Contrast, Saturation, Hue, Temperature, and Tint, allowing users to fine-tune their results. Undo and Redo options are available for better creative control.
+
+
+// ab iske niche baki hai 
 
 # Key Features
 
