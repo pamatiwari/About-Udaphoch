@@ -151,8 +151,9 @@ Temperature (Temp)
 Tint
 Undo and Redo options are available for easy control.
 
-Save or Export
-When you are satisfied with the result, save the processed image or video to your device.
+Download Output
+Once you are satisfied with the final result, you can download the processed image or video directly to your device.
+
 # Who Is PHOC For
 
 PHOC is designed for:
