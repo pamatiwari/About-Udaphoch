@@ -154,47 +154,108 @@ Undo and Redo options are available for easy control.
 Download Output
 Once you are satisfied with the final result, you can download the processed image or video directly to your device.
 
-# Who Is PHOC For
 
-PHOC is designed for:
-• Content creators
-• Video editors
-• Social media users
-• Filmmakers and visual artists
-• Anyone interested in cinematic color grading
+# Who Phocyyyyy Is For
+
+Phocyyyyy is built for creators who want an easy and fast way to transform the color style of their images and videos using AI. It is designed to help you apply professional-looking color styles with just one click, without requiring complex editing skills.
+
+Phocyyyyy is ideal for:
+
+Applying color styles from one image or video to another
+
+Enhancing photos and videos with better color balance and tone
+
+Creating consistent visual looks across your media
+
+Experimenting with different color styles quickly
+
+Improving visual quality using simple, AI-powered tools
+
+Whether you are a content creator, designer, or simply someone who enjoys creative editing, Phocyyyyy helps you achieve better color styling and enhancement in a simple and efficient way.
+
 
 # Performance & Processing Notes
 
-• PHOC requires an active internet connection due to server-side processing.
-• Processing time depends on media size, resolution, video length, and internet speed.
-• Large images may take a short moment to load on certain screens.
-• Video processing may take longer than image processing.
+
+Phocyyyyy uses AI-powered server-side processing to perform color transfer, color style transformation, and color enhancement. This means the main processing happens on secure servers instead of your device, allowing better performance and more consistent results.
+
+Processing time may vary depending on factors such as:
+
+Media size and resolution
+
+Video length
+
+Network speed and stability
+
+Current server load
+
+Results are generated automatically by AI models and are displayed in the app once processing is completed. While most results are delivered quickly, some operations may take a few moments for larger files or videos.
+
+An active internet connection is required for AI-based features to work properly.
+
+Phocyyyyy is designed to balance speed and quality, providing efficient processing while maintaining the visual integrity of your images and videos.
+
 
 # Privacy & Data Handling
 
-PHOC respects user privacy and data security.
 
-Media files are uploaded to the server only for processing purposes.
-Files are retained temporarily and deleted after processing is completed or within a reasonable period.
-PHOC does not permanently store user images or videos.
-No user media is reused or shared beyond app functionality.
+Your privacy is important to us. Phocyyyyy processes your images and videos only to provide the requested AI-powered features such as color transfer, color style transformation, and color enhancement.
 
-For full details, please refer to the Privacy Policy.
+Selected media files are used strictly for temporary processing and are not permanently stored on our servers. Your images and videos are never used to train our AI models and are not shared with third parties for marketing or promotional purposes.
+
+Processing is performed using secure, AI-powered server-side systems, and access to your data is limited only to what is necessary to complete the requested operations.
+
+We may use trusted third-party services such as Google AdMob and Firebase Crashlytics for advertising, analytics, and app stability. These services may collect limited technical and device-related information in accordance with their own privacy policies, but they do not have access to your personal images or videos.
+
+Phocyyyyy is designed to respect user privacy while delivering reliable and efficient AI-powered media processing.
+
 
 # Limitations
 
-• PHOC cannot be used offline.
-• Results may vary depending on media quality and lighting conditions.
-• Very large files may require additional processing time.
+
+Phocyyyyy uses automated AI models to perform color transfer, color style transformation, and color enhancement. While the app is designed to deliver reliable and high-quality results, the final output may vary depending on several factors.
+
+Results may be affected by:
+
+The quality, resolution, and lighting of the source and target media
+
+The complexity of colors and scenes
+
+Video length and file size
+
+Network speed and stability during processing
+
+AI-based processing does not guarantee perfect or identical results in every case. All results are generated automatically and are provided on an “as-is” basis.
+
+Processing time may increase for large images or long videos, and performance may vary based on server load and internet connectivity.
+
+These limitations are a normal part of AI-powered processing and do not indicate a fault in the application.
+
 
 # Future Improvements
 
-PHOC is actively evolving. Future updates may include performance optimizations, faster processing, additional export or sharing options, and enhanced color transfer features.
+
+We are continuously working to enhance Phocyyyyy and improve the overall user experience. In future updates, we may introduce improvements such as:
+
+Faster and more optimized AI processing
+
+Better support for higher-resolution images and longer videos
+
+Enhanced color transfer accuracy and consistency
+
+Additional color style options and refinements
+
+Performance and stability improvements
+
+UI and usability enhancements based on user feedback
+
+All future improvements will be focused on making color transfer, color style transformation, and color enhancement more efficient, reliable, and easy to use, while maintaining strong privacy and data protection standards.
+
 
 # Developer Information
 
-PHOC is developed with a focus on quality, performance, and user experience.
+Phocyyyyy is developed with a strong focus on quality, performance, and user experience.
 
-For support or inquiries, please contact:
+For any support, questions, or inquiries, please contact us at:
 
 Email: yourname@email.com
