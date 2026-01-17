@@ -26,9 +26,7 @@ Video to Image: Apply the color style of a video frame to your photos.
 
 With one-click AI color style transfer and professional color enhancement tools, Phocyyyyy is built for creators who want fast, simple, and high-quality color transformation without complex editing workflows.
 
-// introduction tak ho gaya hai niche ka abhi bahi hai 
 
-// iske niche ke sab baki hai bhala hi chatgpt se dhyan dena tuze ad d nah9 rahata is liye bol diya 
 
 # What PHOC Does
 
@@ -59,25 +57,102 @@ Apply the color style of a video frame to your images for a professional and pol
 Along with one-click AI color style transfer, Phocyyyyy also provides manual color enhancement controls such as Brightness, Contrast, Saturation, Hue, Temperature, and Tint, allowing users to fine-tune their results. Undo and Redo options are available for better creative control.
 
 
-// ab iske niche baki hai 
 
 # Key Features
 
-• Multi-mode color transfer between images and videos
-• Secure server-side processing for high-quality results
-• Cinematic color output
-• Support for high-resolution images and videos
-• Simple and user-friendly interface
+One-Click AI Color Transfer
+Apply color styles instantly with a single tap using AI-powered server-side processing.
+
+Cross-Media Color Style Transfer
+Supports all workflows:
+
+Image to Image
+
+Video to Video
+
+Image to Video
+
+Video to Image
+
+AI-Powered Server-Side Processing
+Heavy processing is done on secure servers for accurate and consistent results.
+
+Color Style Transformation
+Transfer the overall color look and tone from one media to another while preserving structure.
+
+Color Enhancement Tools
+Fine-tune your results with professional controls:
+
+Brightness
+
+Contrast
+
+Saturation
+
+Hue
+
+Temperature (Temp)
+
+Tint
+
+Undo & Redo Support
+Easily revert or reapply changes during editing for better creative control.
+
+High-Quality Output
+Maintains the original structure and visual integrity of images and videos.
+
+Simple & Clean Interface
+Designed for fast, smooth, and easy editing without complex workflows.
+
+Privacy-Focused Processing
+Media is used only for temporary processing and is not stored permanently or used to train AI models.
+
+Image & Video Support
+Works seamlessly with both photos and videos for complete flexibility.
+
 
 # How PHOC Works
 
-1. Select an image or video from your device.
-2. Select a reference image or video for color transfer.
-3. Media files are securely uploaded to the server for processing.
-4. Advanced color transfer processing is applied on the server.
-5. The processed result is delivered back to the app.
-6. Save the final output to your device.
 
+Select Your Media
+Choose one media as the source (from which the color style will be taken) and one media as the target (on which the color style will be applied).
+This works for all combinations:
+
+Image to Image
+
+Video to Video
+
+Image to Video
+
+Video to Image
+
+One-Click Color Style Transfer
+With a single tap, Phocyyyyy sends your selected media for AI-powered server-side processing, where pre-trained AI models analyze the color style of the source and apply it to the target.
+
+AI Processing
+The AI models extract color characteristics such as tone, balance, and overall color style, and transfer them to your target media while preserving its original structure and visual integrity.
+
+Instant Preview
+Once processing is complete, the result is displayed directly in the app so you can instantly see the transformed output.
+
+Fine-Tune (Optional)
+Adjust the final result using professional color enhancement tools:
+
+Brightness
+
+Contrast
+
+Saturation
+
+Hue
+
+Temperature (Temp)
+
+Tint
+Undo and Redo options are available for easy control.
+
+Save or Export
+When you are satisfied with the result, save the processed image or video to your device.
 # Who Is PHOC For
 
 PHOC is designed for:
