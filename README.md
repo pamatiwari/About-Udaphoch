@@ -1,20 +1,19 @@
-# About-PHOC 
+# About-Phorcysty
 
-# PHOC YE TEMPORARY APP KA NAME HAI ISKA MATLAB YE TEMPORARY APP NAME HAI KUCH BHI
 
 Last updated: 15 January 2026
 
 
-Phocyyyyy:  AI Color & Style Transfer
+Phorcysty:  AI Color & Style Transfer
 
 # Short Description :
 Professional AI-powered color transfer in one click. Apply color styles across images and videos instantly using advanced server-side AI processing.
 
 # Introduction :
 
-Phocyyyyy is a professional AI-powered application designed to simplify and enhance color styling in your images and videos. Apply color styles instantly using AI-powered server-side processing., Phocyyyyy allows you to apply the color style of any source media to your target media with just a single tap.
+Phorcysty is a professional AI-powered application designed to simplify and enhance color styling in your images and videos. Apply color styles instantly using AI-powered server-side processing., Phorcysty allows you to apply the color style of any source media to your target media with just a single tap.
 
-What makes Phocyyyyy unique is its ability to work across different media formats, not just within the same type:
+What makes Phorcysty unique is its ability to work across different media formats, not just within the same type:
 
 Image to Image: Apply the color style of one photo to another.
 
@@ -24,15 +23,15 @@ Image to Video: Give your videos the visual tone of your favorite image.
 
 Video to Image: Apply the color style of a video frame to your photos.
 
-With one-click AI color style transfer and professional color enhancement tools, Phocyyyyy is built for creators who want fast, simple, and high-quality color transformation without complex editing workflows.
+With one-click AI color style transfer and professional color enhancement tools, Phorcysty is built for creators who want fast, simple, and high-quality color transformation without complex editing workflows.
 
 
 
-# What PHOC Does
+# What Phorcysty Does
 
-Phocyyyyy is an AI-powered color transfer application that allows users to apply color styles between different types of media with just a single click. Using AI-powered server-side processing, the app performs color transfer and color style transformation while preserving the original structure and visual integrity of your images and videos.
+Phorcysty is an AI-powered color transfer application that allows users to apply color styles between different types of media with just a single click. Using AI-powered server-side processing, the app performs color transfer and color style transformation while preserving the original structure and visual integrity of your images and videos.
 
-Phocyyyyy focuses on three core capabilities:
+Phorcysty focuses on three core capabilities:
 
 Color Transfer
 
@@ -54,7 +53,7 @@ Use a reference image to define the color style and visual tone of your video.
 Video to Image:
 Apply the color style of a video frame to your images for a professional and polished appearance.
 
-Along with one-click AI color style transfer, Phocyyyyy also provides manual color enhancement controls such as Brightness, Contrast, Saturation, Hue, Temperature, and Tint, allowing users to fine-tune their results. Undo and Redo options are available for better creative control.
+Along with one-click AI color style transfer, Phorcysty also provides manual color enhancement controls such as Brightness, Contrast, Saturation, Hue, Temperature, and Tint, allowing users to fine-tune their results. Undo and Redo options are available for better creative control.
 
 
 
